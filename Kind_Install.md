@@ -6,7 +6,6 @@
 
 ## Installation Steps
 Prerequisites:
-  - Install Go
   - Install Docker
 
 
